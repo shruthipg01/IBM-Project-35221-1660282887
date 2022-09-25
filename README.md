@@ -1,7 +1,7 @@
 # IBM-Project-35221-1660282887
 **Smart Waste Management System For Metropolitan Cities**
 TECHNOLOGY : IOT        
-TEAM ID :
+TEAM ID : PNT2022TMID48488     
 
 **👨‍👩‍👦TEAM MEMBERS**     
 SHREE VIKASH   
@@ -31,5 +31,5 @@ Sathish [a link] (https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cN
 Sreejith [a link] (https://drive.google.com/file/d/10qrLzN4T42oqjXTCRz9Tb_Ihh2Sq1XSo/view?usp=sharing)   
 Naveen [a link]  (https://drive.google.com/file/d/1wvrCaCVbYAUJTmoTP2XPsQfVFtYNjToR/view?usp=drivesdk)  
   
-**#assignment 2**      
+**#Assignment 2**      
 explanation video link : https://screenrec.com/share/eGjWXHAFON
