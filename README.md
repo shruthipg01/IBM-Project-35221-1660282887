@@ -10,4 +10,4 @@ Sreejith [a link] (https://drive.google.com/file/d/10qrLzN4T42oqjXTCRz9Tb_Ihh2Sq
 Naveen [a link]  (https://drive.google.com/file/d/1wvrCaCVbYAUJTmoTP2XPsQfVFtYNjToR/view?usp=drivesdk)  
   
 #assignment 2 
-explanation video link : https://screenrec.com/share/eLtpocFOWz
+explanation video link : https://screenrec.com/share/eGjWXHAFON
