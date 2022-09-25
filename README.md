@@ -10,9 +10,11 @@ SREEJITH KUMAR
 NAVEEN       
 GOGUL         
 📜PROJECT DESCRIPTION:      
-
-In simple words, Smart Waste Management is a waste management process to identify the amount of trash in the trash bin and helps to notify the Waste management team to clear them up and the Trash bin's place can be obtained with the help of GPS.
-
+Garbage level detection in bins.
+Getting the weight of the garbage in the bin. 
+Alerts the authorized person to empty the bin whenever the bins are full.
+Garbage level of the bins can be monitored through a web App.
+We can view the location of every bin in the web application by sending GPS location from the device.
 🎯Skills Required:
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
