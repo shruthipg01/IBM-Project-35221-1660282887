@@ -1,9 +1,9 @@
 # IBM-Project-35221-1660282887
-Smart Waste Management System For Metropolitan Cities
+**Smart Waste Management System For Metropolitan Cities**
 TECHNOLOGY : IOT        
 TEAM ID :
 
-👨‍👩‍👦TEAM MEMBERS       
+**👨‍👩‍👦TEAM MEMBERS**     
 SHREE VIKASH   
 SATHISH KUMAR        
 SREEJITH KUMAR        
