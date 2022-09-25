@@ -17,7 +17,7 @@ Alerts the authorized person to empty the bin whenever the bins are full.
 Garbage level of the bins can be monitored through a web App.        
 We can view the location of every bin in the web application by sending GPS location from the device.    
 
-**🎯Skills Required: **        
+**🎯Skills Required:**        
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
 **📟Empathy Map:**       
@@ -31,5 +31,5 @@ Sathish [a link] (https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cN
 Sreejith [a link] (https://drive.google.com/file/d/10qrLzN4T42oqjXTCRz9Tb_Ihh2Sq1XSo/view?usp=sharing)   
 Naveen [a link]  (https://drive.google.com/file/d/1wvrCaCVbYAUJTmoTP2XPsQfVFtYNjToR/view?usp=drivesdk)  
   
-**#assignment 2 **
+**#assignment 2**
 explanation video link : https://screenrec.com/share/eGjWXHAFON
