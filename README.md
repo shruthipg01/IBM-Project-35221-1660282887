@@ -3,12 +3,12 @@ Smart Waste Management System For Metropolitan Cities
 TECHNOLOGY : IOT
 TEAM ID :
 
-👨‍👩‍👦TEAM MEMBERS
-SHREE VIKASH
-SATHISH KUMAR
-SREEJITH KUMAR
-NAVEEN
-GOGUL
+👨‍👩‍👦TEAM MEMBERS 
+SHREE VIKASH 
+SATHISH KUMAR 
+SREEJITH KUMAR 
+NAVEEN 
+GOGUL 
 📜PROJECT DESCRIPTION:
 
 In simple words, Smart Waste Management is a waste management process to identify the amount of trash in the trash bin and helps to notify the Waste management team to clear them up and the Trash bin's place can be obtained with the help of GPS.
