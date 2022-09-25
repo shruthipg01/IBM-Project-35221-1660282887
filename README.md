@@ -8,7 +8,8 @@ SHREE VIKASH
 SATHISH KUMAR        
 SREEJITH KUMAR        
 NAVEEN       
-GOGUL         
+GOGUL    
+
 📜PROJECT DESCRIPTION:          
 Garbage level detection in bins.     
 Getting the weight of the garbage in the bin.      
