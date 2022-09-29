@@ -37,7 +37,7 @@ Sreejith [a link] (https://drive.google.com/file/d/10qrLzN4T42oqjXTCRz9Tb_Ihh2Sq
 Naveen [a link]  (https://drive.google.com/file/d/1wvrCaCVbYAUJTmoTP2XPsQfVFtYNjToR/view?usp=drivesdk)  
   
 **#Assignment 2**      
-explanation video link : https://screenrec.com/share/eGjWXHAFON
+Explanation video link : https://screenrec.com/share/eGjWXHAFON
 
 **Assignment 3**     
-explanation video link : https://screenrec.com/share/Piblrx9gKY
+Explanation video link : https://screenrec.com/share/Piblrx9gKY
