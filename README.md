@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mega.nz/file/OeJw1brR](https://youtu.be/G-EGDH50hGE)
+
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
