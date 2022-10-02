@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/77039988/193441501-bac06fff-341d-440c-af1b-5356ac521774.MP4
 
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
