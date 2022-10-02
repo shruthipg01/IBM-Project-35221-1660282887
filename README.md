@@ -4,7 +4,7 @@
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID48488     
 
-https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4
+https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4                 
 ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)
 
 # **👨‍👩‍👦TEAM MEMBERS**     
