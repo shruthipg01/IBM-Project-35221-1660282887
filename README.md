@@ -20,7 +20,7 @@ We can view the location of every bin in the web application by sending GPS loca
 # **🎯Skills Required:**        
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
-# **🙌🏻License**
+# **🏻🔑License**
 [![License: IBM_CCET 5.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/blob/main/LICENSE)
 
 
