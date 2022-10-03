@@ -31,8 +31,8 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 # **Ideation_Phase**    
 **📟Empathy Map:**           
 https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a     
-**🧠Brain Storm**         
-https://app.mural.co/invitation/mural/dustman6223/1664087072649?sender=u6b7ea29e002e68fc55c83285&key=c5d8211d-ffa9-462f-8d54-f7243325f35e       
+**🧠Brain Storm**           
+https://app.mural.co/invitation/mural/gogulkrish6500/1664783545250?sender=u1442bd002065f0c4d0984849&key=d7cc03dd-1efa-416e-9093-6ae0589d1f51              
 **🧮PROBLEM STATEMENT**       
 https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237         
 **Project working video link**          
