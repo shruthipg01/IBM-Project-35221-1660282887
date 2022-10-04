@@ -45,7 +45,7 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 </button>     
 
 # **💡PROJECT DESIGN & PLANNING**    
-**Project design phase 2**
+**Project design phase 2**          
 <button>
     <a href="https://app.mural.co/t/gogul8628/m/gogul8628/1664889846692/5ba1e200cd6b92d433ad44109fc8103d60dacf1b?sender=u22f91ee78dcda11de8422080">DATA FLOW ARCHITECTURE</a>
 </button>       
