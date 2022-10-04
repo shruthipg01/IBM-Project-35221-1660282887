@@ -63,9 +63,9 @@ Explanation video link : https://screenrec.com/share/Piblrx9gKY
 | ASSIGNMENTS 1 | VIDEO LINK    |
 | ------------- | ------------- |
 | GOGUL         | <button> <a href="https://screenrec.com/share/mts31hHi4S ">CLICK HERE!  </a></button>                                            |
-| SHREE VIKASH  | <button> <a href="https://drive.google.com/file/d/1akgN59ZzqH6H5qCDOujX_IQyyEaULSGh/view?usp=sharing">CLICK HERE!  </a></button> |
-| SATHISH       | <button><a href=" https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cNlRZ/view?usp=sharing">CLICK HERE!  </a></button> |
-| SREEJITH      | <button><a href=" https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cNlRZ/view?usp=sharing">CLICK HERE!  </a> </button>|
+| SHREE VIKASH  | <button> <a href="https://drive.google.com/file/d/1akgN59ZzqH6H5qCDOujX_IQyyEaULSGh/view?usp=sharing">CLICK HERE!  </a> </button> |
+| SATHISH       | <button><a href="https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cNlRZ/view?usp=sharing">CLICK HERE!  </a> </button> |
+| SREEJITH      | <button><a href="https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cNlRZ/view?usp=sharing">CLICK HERE!  </a> </button> |
 | NAVEEN        | <button><a href="https://drive.google.com/file/d/1wvrCaCVbYAUJTmoTP2XPsQfVFtYNjToR/view?usp=drivesdk">CLICK HERE!  </a> </button>|
 | ASSIGNMENTS 2 | VIDEO LINK    |
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/eGjWXHAFON">CLICK HERE!  </a></button>                                             |
