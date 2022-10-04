@@ -68,5 +68,5 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 | ASSIGNMENTS 3 | VIDEO LINK    |
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/Piblrx9gKY">CLICK HERE!  </a></button>                                             |
 
-
+![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
 
