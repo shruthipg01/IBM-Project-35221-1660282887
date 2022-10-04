@@ -45,20 +45,6 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 </button>       
     
 **Project working video link**          
-**#Assignmanet 1**     
-Gogul [a link]   (https://screenrec.com/share/mts31hHi4S)    
-Vikash [a link]  (https://drive.google.com/file/d/1akgN59ZzqH6H5qCDOujX_IQyyEaULSGh/view?usp=sharing)   
-Sathish [a link] (https://drive.google.com/file/d/1KAf6tt83SOkA04bFOweWaNKUpN_cNlRZ/view?usp=sharing)   
-Sreejith [a link] (https://drive.google.com/file/d/10qrLzN4T42oqjXTCRz9Tb_Ihh2Sq1XSo/view?usp=sharing)   
-Naveen [a link]  (https://drive.google.com/file/d/1wvrCaCVbYAUJTmoTP2XPsQfVFtYNjToR/view?usp=drivesdk)  
-  
-**#Assignment 2**      
-Explanation video link : https://screenrec.com/share/eGjWXHAFON
-
-**Assignment 3**     
-Explanation video link : https://screenrec.com/share/Piblrx9gKY
-
-
   
 | ASSIGNMENTS 1 | VIDEO LINK    |
 | ------------- | ------------- |
