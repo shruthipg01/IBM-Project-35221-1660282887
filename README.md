@@ -29,12 +29,21 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 
 
 # **Ideation_Phase**    
-**📟Empathy Map:**           
-https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a     
-**🧠Brain Storm**           
-https://app.mural.co/invitation/mural/gogulkrish6500/1664783545250?sender=u1442bd002065f0c4d0984849&key=d7cc03dd-1efa-416e-9093-6ae0589d1f51              
-**🧮PROBLEM STATEMENT**       
-https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237         
+**📟Empathy Map:**   
+<button>
+    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
+</button>        
+   
+**🧠Brain Storm**   
+<button>
+    <a href="https://app.mural.co/invitation/mural/gogulkrish6500/1664783545250?sender=u1442bd002065f0c4d0984849&key=d7cc03dd-1efa-416e-9093-6ae0589d1f51">CLICK HERE!  </a>
+</button>        
+              
+**🧮PROBLEM STATEMENT**     
+<button>
+    <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
+</button>       
+    
 **Project working video link**          
 **#Assignmanet 1**     
 Gogul [a link]   (https://screenrec.com/share/mts31hHi4S)    
