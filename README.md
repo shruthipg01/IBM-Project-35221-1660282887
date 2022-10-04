@@ -42,6 +42,11 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 **🧮PROBLEM STATEMENT**     
 <button>
     <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
+</button>     
+
+# **PROJECT DESIGN & PLANNING**
+<button>
+    <a href="https://app.mural.co/t/gogul8628/m/gogul8628/1664889846692/5ba1e200cd6b92d433ad44109fc8103d60dacf1b?sender=u22f91ee78dcda11de8422080">DATA FLOW ARCHITECTURE</a>
 </button>       
     
 **Project working video link**          
