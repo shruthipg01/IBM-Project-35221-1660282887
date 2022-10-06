@@ -1,38 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out our README. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/network/members)
-[![Stargazers][stars-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers)
-[![Issues][issues-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/issues)
-
-
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img href="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AIBM_logo.svg&psig=AOvVaw0bXXSu60njOPUDpve3Ww5E&ust=1665108995757000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDVksbEyvoCFQAAAAAdAAAAABAc)" alt="Logo" width="80" height="80">
-  </a></div>
+![readme](https://github.com/gogulkrish/readmetemp)          
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
