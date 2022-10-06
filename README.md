@@ -24,17 +24,15 @@ TEAM ID : PNT2022TMID48488
 
 https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4                 
 
-
-```html
-   
-                     
-# **👩‍👦TEAM MEMBERS**          
+# **👩‍👦TEAM MEMBERS**    
+```html                      
 SHREE VIKASH          
 SATHISH KUMAR         
 SREEJITH KUMAR         
 NAVEEN        
 GOGUL      
-```        
+```          
+
 # **📜PROJECT DESCRIPTION:**          
 Garbage level detection in bins.     
 Getting the weight of the garbage in the bin.      
