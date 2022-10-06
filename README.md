@@ -1,9 +1,4 @@
-[![Contributors][contributors-shield]][[(https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/graphs/contributors)]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]     
+ ![GitHub Repo stars](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers) 
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
