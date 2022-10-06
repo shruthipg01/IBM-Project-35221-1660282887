@@ -1,5 +1,4 @@
-[contributors-shield]: (https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers)
-
+[![Contributors][(https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badg)]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/graphs/contributors)
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
