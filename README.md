@@ -1,5 +1,6 @@
-[![Forks][forks-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers)
-[![Stargazers][stars-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/network/members)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
@@ -76,10 +77,10 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]:https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]:https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]:[ https://github.com/othneildrew/Best-README-Template/stargazers](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers)
 
  
