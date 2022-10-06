@@ -1,4 +1,4 @@
-![readme](https://github.com/gogulkrish/readmetemp)          
+![readme]([https://github.com/gogulkrish/readmetemp](https://github.com/gogulkrish/readmetemp#readme))          
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
