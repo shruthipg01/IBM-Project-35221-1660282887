@@ -1,4 +1,4 @@
-
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 
 <br />
-<div align="center">
+
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" alt="Logo" width="320" height="128">
   </a>
