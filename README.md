@@ -9,11 +9,12 @@
     <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" alt="Logo" width="320" height="128">
   </a>
 
-</div> 
+
 
 
                      
 # IBM-Project-35221-1660282887
+  </div> 
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID48488     
