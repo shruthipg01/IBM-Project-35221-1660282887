@@ -14,8 +14,8 @@
   
   
   
-       
-# **Smart Waste Management System For Metropolitan Cities**   
+<font color="green"> # **Smart Waste Management System For Metropolitan Cities**   </font>      
+ 
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID48488     
 
