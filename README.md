@@ -18,12 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/network/members]
-[![Stargazers][stars-shield]][https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers]
-[![Issues][issues-shield]][https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/network/members)
+[![Stargazers][stars-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers)
+[![Issues][issues-shield]](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/issues)
+
+
 
 
 
@@ -31,8 +31,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AIBM_logo.svg&psig=AOvVaw0bXXSu60njOPUDpve3Ww5E&ust=1665108995757000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDVksbEyvoCFQAAAAAdAAAAABAc)" alt="Logo" width="80" height="80">
+  </a></div>
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
 TECHNOLOGY : IOT        
