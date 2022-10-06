@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AIBM_logo.svg&psig=AOvVaw0bXXSu60njOPUDpve3Ww5E&ust=1665108995757000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDVksbEyvoCFQAAAAAdAAAAABAc)" alt="Logo" width="80" height="80">
+    <img href="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AIBM_logo.svg&psig=AOvVaw0bXXSu60njOPUDpve3Ww5E&ust=1665108995757000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDVksbEyvoCFQAAAAAdAAAAABAc)" alt="Logo" width="80" height="80">
   </a></div>
 # IBM-Project-35221-1660282887
 # **Smart Waste Management System For Metropolitan Cities**   
