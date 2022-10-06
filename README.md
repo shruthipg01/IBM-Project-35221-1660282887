@@ -15,7 +15,8 @@
   
   
 <font color="green"> # **Smart Waste Management System For Metropolitan Cities**   </font>      
- 
+ <span style="color:red">some **This is Red Bold.** text</span>
+
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID48488     
 
