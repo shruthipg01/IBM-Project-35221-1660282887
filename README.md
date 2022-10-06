@@ -94,6 +94,6 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 [forks-shield]: https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-35221-1660282887.svg?style=for-the-badge
 [forks-url]:https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/network/members
 [stars-shield]: https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-35221-1660282887.svg?style=for-the-badge
-[stars-url]:https://github.com/othneildrew/Best-README-Template/stargazers](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers
+[stars-url]:https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers
 
  
