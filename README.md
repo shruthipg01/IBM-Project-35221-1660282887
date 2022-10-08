@@ -14,7 +14,7 @@
                    
 # IBM-Project-35221-1660282887
   </div> 
-  
+  <!-- Please take off the header--!>
   
   
  # **Smart Waste Management System For Metropolitan Cities**
